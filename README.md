@@ -3,12 +3,9 @@
 <h3 align="center">A passionate data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://rentechassets.s3.amazonaws.com/common_files/swipecart/Blog/datascience.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranj10&label=Profile%20views&color=0e75b6&style=flat" alt="ranj10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranj10" alt="ranj10" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@ranjana_gautam" target="blank"><img src="https://img.shields.io/twitter/follow/@ranjana_gautam?logo=twitter&style=for-the-badge" alt="@ranjana_gautam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ranjana_gautam" target="blank"><img src="https://img.shields.io/twitter/follow/ranjana_gautam?logo=twitter&style=for-the-badge" alt="ranjana_gautam" /></a> </p>
 
 - 🔭 I’m currently working on **Chatbot**
 
@@ -24,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ranjana_gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ranjana_gautam" height="30" width="40" /></a>
+<a href="https://twitter.com/ranjana_gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjana_gautam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ranjana-gautam-5398b0138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjana-gautam-5398b0138/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ranjana gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ranjana gautam" height="30" width="40" /></a>
 <a href="https://fb.com/ranjana gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranjana gautam" height="30" width="40" /></a>
